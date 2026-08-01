@@ -1,3 +1,10 @@
 nicks-stack.resolved.json
 __pycache__/
 *.pyc
+.env
+*.env
+!files/hermes.env
+.op.env
+auth.json
+state.db
+memories/
