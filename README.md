@@ -2,7 +2,7 @@
 
 <img src="docs/assets/hero.jpg" alt="Nick's Stack — a Hermes agent on Orgo" width="800"/>
 
-# Nick's Stack 🚀
+# 
 
 **Your own always-on AI agent, on its own cloud computer — with its own phone, email, payment card, and password vault.**
 
